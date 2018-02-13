@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bobbi-SMR.github.io/newnewhugo/portfolio/work1/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bobbi-SMR.github.io/newnewhugo/portfolio/work2/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bobbi-SMR.github.io/newnewhugo/portfolio/work3/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bobbi-SMR.github.io/newnewhugo/portfolio/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://bobbi-SMR.github.io/newnewhugo/portfolio/work5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
   
   <url>
@@ -53,31 +68,19 @@
   </url>
   
   <url>
-    <loc>https://bobbi-SMR.github.io/newnewhugo/portfolio/work1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bobbi-SMR.github.io/newnewhugo/portfolio/work2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bobbi-SMR.github.io/newnewhugo/portfolio/work3/</loc>
-  </url>
-  
-  <url>
     <loc>https://bobbi-SMR.github.io/newnewhugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bobbi-SMR.github.io/newnewhugo/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bobbi-SMR.github.io/newnewhugo/portfolio/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
     <priority>0</priority>
   </url>
   
