@@ -1,3 +1,5 @@
+
+#basurl="http:example.com"
 baseurl = "https://bobbi-SMR.github.io/newnewhugo/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
